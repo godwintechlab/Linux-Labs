@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section covers the installation and initial setup of the Linux learning environment. A VirtualBox virtual machine was created, Ubuntu LTS was installed, and the system was configured for use throughout the remainder of the course.
+This section covers the installation and initial setup of the Linux learning environment. A VirtualBox virtual machine was created, Ubuntu LTS was installed, the virtual machine was configured, and a shared folder was set up to allow file sharing between the host and guest operating systems.
 
 ---
 
@@ -14,6 +14,7 @@ This section covers the installation and initial setup of the Linux learning env
 - Creating a virtual machine
 - Installing Ubuntu LTS
 - Configuring the virtual machine
+- Setting up shared folders between host and guest
 - Creating a reusable Linux lab environment
 - Creating VirtualBox snapshots
 - Preparing the environment for future Linux exercises
