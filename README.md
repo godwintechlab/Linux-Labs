@@ -48,8 +48,8 @@ Each section of this repository contains:
 
 ## Progress
 
-- [ ] Linux Installation
-- [ ] Bash CLI
+- [x] Linux Installation
+- [X] First Steps in the Termina
 - [ ] First Steps with Linux
 - [ ] File Management
 - [ ] Text Processing
