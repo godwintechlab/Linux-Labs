@@ -9,7 +9,7 @@ This section introduces the Linux terminal and the essential commands used to na
 ## Skills Practised
 
 - Outputting text with `echo`
-- Using `echo -n` and `echo -
+- Using `echo -n` and `echo -e`
 - Displaying the current directory with `pwd`
 - Navigating directories using `cd`
 - Moving to parent directories (`cd ..`, `cd ../..`)
